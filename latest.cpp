@@ -36,4 +36,6 @@ int main() {
   }
   // print last remaining price
   std::cout << current << std::endl;
+  
+  return 0;
 }
